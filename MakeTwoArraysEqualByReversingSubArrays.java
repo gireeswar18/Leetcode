@@ -1,7 +1,5 @@
 package leetcode;
 
-import java.util.*;
-
 public class MakeTwoArraysEqualByReversingSubArrays {
 	public static void main(String[] args) {
 

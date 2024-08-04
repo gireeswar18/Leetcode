@@ -1,7 +1,6 @@
 package leetcode;
 
 import java.util.Arrays;
-import java.util.HashMap;
 
 public class SortThePeople {
 	public static void main(String[] args) {
