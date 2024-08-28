@@ -8,7 +8,7 @@ public class SpiralMatrix {
     public static void main(String[] args) {
 
         SpiralMatrix sp = new SpiralMatrix();
-        int[][] mat = {{1,2,3},{4,5,6},{7,8,9}};
+//        int[][] mat = {{1,2,3},{4,5,6},{7,8,9}};
         int[][] mat2 = {{1,2,3,4},{5,6,7,8},{9,10,11,12}};
 
         for (int i : sp.spiralOrder(mat2))
