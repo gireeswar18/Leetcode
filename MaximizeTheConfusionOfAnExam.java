@@ -4,8 +4,8 @@ public class MaximizeTheConfusionOfAnExam {
 
     public static void main(String[] args) {
 
-        String one = "TTFTTFTT"; // 5
-        String two = "TFFT"; // 3
+//        String one = "TTFTTFTT"; // 5
+//        String two = "TFFT"; // 3
         String three = "TTFF"; // 4, k -> 2
 
         MaximizeTheConfusionOfAnExam m = new MaximizeTheConfusionOfAnExam();

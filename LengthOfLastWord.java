@@ -8,6 +8,8 @@ public class LengthOfLastWord {
 
         String str = sc.nextLine();
         System.out.println(new LengthOfLastWord().lengthOfLastWord(str));
+        
+        sc.close();
     }
 
     public int lengthOfLastWord(String s) {

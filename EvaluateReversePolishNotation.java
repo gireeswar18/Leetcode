@@ -1,7 +1,5 @@
 package leetcode;
 
-import java.util.Stack;
-
 public class EvaluateReversePolishNotation {
 	public static void main(String[] args) {
 

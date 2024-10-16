@@ -4,10 +4,10 @@ import java.util.Stack;
 
 public class ReverseSubstringsBetweenEachPairOfParentheses {
     public static void main(String[] args) {
-        String s1 = "(abcd)";
-        String s2 = "(u(love)i)";
-        String s3 = "(ed(et(oc))el)";
-        String s4 = "a(bcdefghijkl(mno)p)q";
+//        String s1 = "(abcd)";
+//        String s2 = "(u(love)i)";
+//        String s3 = "(ed(et(oc))el)";
+//        String s4 = "a(bcdefghijkl(mno)p)q";
         String s5 = "(ab)(cd)";
 
         System.out.println(reverseParentheses(s5));

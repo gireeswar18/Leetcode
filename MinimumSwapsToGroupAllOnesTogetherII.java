@@ -39,7 +39,8 @@ public class MinimumSwapsToGroupAllOnesTogetherII {
         int right = 0;
         int minSwap = Integer.MAX_VALUE;
         int windowZeroes = 0;
-        int windowOnes = 0;
+        @SuppressWarnings("unused")
+		int windowOnes = 0;
         
         while (right < arr.length) {
         	

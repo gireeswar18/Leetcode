@@ -12,6 +12,8 @@ public class RotateArray {
         r.rotate(arr, 3);
 
         System.out.println(Arrays.toString(arr));
+        
+        sc.close();
     }
 
     public void rotate(int[] arr, int k) {

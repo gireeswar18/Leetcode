@@ -9,7 +9,7 @@ public class RotateImage {
         int[][] mat1 = new int[][]{{1, 2, 3},
                                     {4, 5, 6},
                                     {7, 8, 9}};
-        int[][] mat2 = new int[][]{{5, 1, 9, 11}, {2, 4, 8, 10}, {13, 3, 6, 7}, {15, 14, 12, 16}};
+//        int[][] mat2 = new int[][]{{5, 1, 9, 11}, {2, 4, 8, 10}, {13, 3, 6, 7}, {15, 14, 12, 16}};
 
         RotateImage r = new RotateImage();
         r.rotate(mat1);

@@ -1,7 +1,6 @@
 package leetcode;
 
-import java.util.HashMap;
-import java.util.Scanner;
+import java.util.*;
 
 public class IntegerToRoman {
     public static void main(String[] args) {
@@ -10,6 +9,8 @@ public class IntegerToRoman {
         int num = sc.nextInt();
 
         System.out.println(new IntegerToRoman().intToRoman(num));
+        
+        sc.close();
 
     }
 

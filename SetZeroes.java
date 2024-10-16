@@ -4,7 +4,7 @@ public class SetZeroes {
 
     public static void main(String[] args) {
 
-        int[][] mat1 = {{1,1,1},{1,0,1},{1,1,1}};
+//        int[][] mat1 = {{1,1,1},{1,0,1},{1,1,1}};
         int[][] mat2 = {{0,1,2,0},{3,4,5,2},{1,3,1,5}};
 
         SetZeroes s = new SetZeroes();
